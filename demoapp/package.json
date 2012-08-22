@@ -1,0 +1,34 @@
+{
+  "name": "demoapp",
+  "version": "0.2.0",
+  "description": "",
+  "keywords": 
+  [
+  ],
+  "author": "",
+  "maintainers": 
+  [
+  ],
+  "contributors":
+  [
+  ],
+  "repository": 
+  {
+    "type": "git",
+    "url": ""
+  },
+  "preferGlobal": false,
+  "dependencies": 
+  {
+  },
+  "license":"",
+  "private": true,
+  "main": "./demoapp.js",
+  "service":
+  {
+    "appid": "7ebb29e9b883952dc59c6c60ec80801fc72db609",
+    "-consumerKey": "a2bc3c55kdf81k4111kba06ka7871a7a160e",
+    "-consumerSecret": "79ad0a9dsd682s4852s93e9s9731c3dc7377"
+  },
+  "logfile" : "./nettle_logger.log"
+}
